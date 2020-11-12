@@ -40,7 +40,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textColor="@color/colorGreen"
-                android:text="Confirmed"/>
+                android:text="Katanya si positif"/>
 
             <TextView
                 android:id="@+id/tv_provinceCase"
@@ -61,7 +61,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textColor="@color/colorBlue"
-                android:text="Recovered"/>
+                android:text="Sembuh insyallah"/>
 
             <TextView
                 android:gravity="end"
@@ -81,7 +81,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textColor="@color/colorRed"
-                android:text="Death"/>
+                android:text="Yg Innalillahi :v"/>
 
             <TextView
                 android:gravity="end"
